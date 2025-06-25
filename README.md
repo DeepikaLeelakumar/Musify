@@ -20,7 +20,8 @@ It allows users to browse, search, and play songs with a sleek, intuitive interf
 ## Demo
 
 Check out the live demo here:  
-[https://musify-2xyndi2ea-deepikas-projects-93933b34.vercel.app](https://musify-2xyndi2ea-deepikas-projects-93933b34.vercel.app)
+https://musify-eba6c.web.app/
+
 
 ---
 
